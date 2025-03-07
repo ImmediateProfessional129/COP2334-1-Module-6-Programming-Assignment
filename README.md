@@ -1,4 +1,4 @@
-# COP2334-1-Module-6-Programming-Assignment
+# COP2664-1-Lesson-6-Programming-Exercise 6.1
 This is a Github repository link for Lesson 6 Programming Exercise 6.1
 
 // This program is designed to calculate the total number of days that a company's employees have not been showing up to work.
